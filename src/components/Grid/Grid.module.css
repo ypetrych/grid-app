@@ -1,0 +1,7 @@
+.grid {
+    margin: 20px;
+}
+
+.row {
+    display: flex;
+}
